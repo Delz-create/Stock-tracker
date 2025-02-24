@@ -45,6 +45,6 @@ Add your Alpha Vantage API key in useStockTracker.js.
 Run the app: npm start.
 
 Live Demo:
-Link to live demo (if deployed)
+Link to live demo (https://stock-tracker-gilt-eight.vercel.app/)
 
 This app is perfect for tracking your favorite stocks with ease! 🚀
