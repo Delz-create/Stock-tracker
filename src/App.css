@@ -114,6 +114,10 @@ form button[type="button"]:hover {
   cursor: pointer;
 }
 
+.search-input input {
+  width: 100%;
+}
+
 @media (max-width: 600px) {
   .container {
     width: 90%;

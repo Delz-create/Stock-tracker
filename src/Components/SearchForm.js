@@ -24,7 +24,9 @@ function SearchForm({ fetchStockData }) {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form
+      className="search-input"
+      onSubmit={handleSubmit}>
       <input
         type="text"
         value={symbol}
